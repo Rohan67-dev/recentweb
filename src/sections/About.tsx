@@ -87,7 +87,7 @@ const About = () => {
 
   const stats = [
     { value: '9+', label: 'Events', icon: Trophy },
-    { value: '1833+', label: 'Participants', icon: Users },
+    { value: '1838+', label: 'Participants', icon: Users },
     { value: '0L+', label: 'Prize Pool', icon: Cpu },
     { value: '0', label: 'Days of Fun', icon: Music },
   ];
